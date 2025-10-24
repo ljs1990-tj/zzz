@@ -8,4 +8,6 @@ public class UserController {
 	
 	// 회원가입 2일차 끝!
 	
+	// 세션 작업!
+	
 }

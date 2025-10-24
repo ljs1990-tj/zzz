@@ -5,4 +5,5 @@ public class BoardController {
 	
 	// 자유게시판 완료!
 	
+	// 공지사항!
 }
