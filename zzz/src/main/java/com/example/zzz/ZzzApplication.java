@@ -9,5 +9,4 @@ public class ZzzApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ZzzApplication.class, args);
 	}
-//zz2
 }
