@@ -6,4 +6,6 @@ import org.springframework.stereotype.Controller;
 public class UserController {
 	// 로그인 기능 1일차 완료!
 	
+	// 회원가입 2일차 끝!
+	
 }
