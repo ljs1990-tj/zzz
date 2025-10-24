@@ -8,6 +8,7 @@ public class UserController {
 	
 	// 회원가입 2일차 끝!
 	
+	// 세션 작업!
 	// 비밀번호 찾기 구현!!
 	
 }
